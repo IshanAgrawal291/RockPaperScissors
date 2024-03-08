@@ -53,10 +53,6 @@ public class test {
         if (userChoice.equals("scissors") && botChoice.equals("paper")) {
             System.out.println("You won!");
         }
-        /*else {
-            System.out.println();
-            System.out.println("I was not able to understand your choice.");
-        } */
 
         
         scanner.close();
